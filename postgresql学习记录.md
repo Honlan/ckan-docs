@@ -32,7 +32,7 @@ PostgreSQL命令有两种形式：
 更多示例请参考[阮一峰博客PostgreSQL基本操作](http://www.ruanyifeng.com/blog/2013/12/getting_started_with_postgresql.html)，其中介绍了Postgre
 SQL的安装、添加用户和数据库、登录数据库、控制台命令和数据库操作。
 
-## 其他命令汇总
+## 其他命令
 
 SELECT version(); 查看当前PostgreSQL版本
 
