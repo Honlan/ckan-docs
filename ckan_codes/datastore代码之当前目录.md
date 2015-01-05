@@ -47,7 +47,7 @@ PS：以下划线开头的函数仅用于其他函数的调用中
 - dump(self, resource_id)：该函数调用datastore_search，读取datastore数据、逐条写入csv并导出
 
 ##db.py（1242）
-该py代码中包含和PostgreSQL有关的数据库操作函数，定义了_pg_types、_type_names、_engines、_TIMEOUT、_PG_ERR_CODE、_DATE_FORMATS等常量，包含以下函数：
+该py代码中包含和PostgreSQL有关的数据库操作函数，定义了\_pg_types、\_type_names、\_engines、\_TIMEOUT、\_PG_ERR_CODE、\_DATE_FORMATS等常量，包含以下函数：
 
 - _strip(input)，字符串裁剪
 - _pluck(field, arr)，list值提取
